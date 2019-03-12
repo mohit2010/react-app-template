@@ -1,5 +1,5 @@
 {
-  "name": "music-master",
+  "name": "react-app",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "npm run build && live-server dist"
   },
   "keywords": [],
-  "author": "Mohit",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.2.2",
